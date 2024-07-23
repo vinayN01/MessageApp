@@ -1,2 +1,8 @@
-"*.jsp linguist-language=HTML" 
+*.jsp linguist-language=JSP
+*.jsp linguist-detectable=true
+*.sql linguist-language=SQL
+*.sql linguist-detectable=true
+"*.jsp linguist-language=JSP" 
+"*.jsp linguist-detectable=true" 
 "*.sql linguist-language=SQL" 
+"*.sql linguist-detectable=true" 
